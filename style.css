@@ -1,0 +1,30 @@
+/* Change background and font for the entire webpage */
+body {
+  background-color: #f4f4f9;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Center and color the main page title */
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Style the body text paragraphs */
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Custom class for a stylized container box */
+.card-box {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+}
